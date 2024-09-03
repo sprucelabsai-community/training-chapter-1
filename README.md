@@ -1,4 +1,4 @@
-# 8-Bit Stories
+# Spruce Training Series: 8-Bit Stories
 
 ## Chapter 2
 
